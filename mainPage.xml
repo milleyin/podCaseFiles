@@ -8,42 +8,44 @@
     <language>zh-cn</language>
     <itunes:author>Mille Yin</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/image.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
     <description>什么都播</description>
 
     <item>
-  <title>[三体有声剧] 第一季·第一集·科学边界</title>
-  <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
-  <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
-  <enclosure 
-      url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/1三体第一季_科学边界.m4a"
-      length="28500000"
-      type="audio/m4a"/>
-  <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/cover.jpg"/>
-  <guid>1</guid>
-</item>
+      <title>[三体有声剧] 第一季·第一集·科学边界</title>
+      <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
+      <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
+      <enclosure
+          url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/1三体第一季_科学边界.m4a"
+          length="28500000"
+          type="audio/m4a"/>
+      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+      <guid>1</guid>
+    </item>
 
-<item>
-  <title>[三体有声剧] 第一季·第二集·射手和农场主</title>
-  <description>叶文洁的信号引来三体世界，汪淼进入神秘游戏，探索文明毁灭与重生的隐喻，揭示“射手与农场主”的宇宙法则。</description>
-  <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
-  <enclosure 
-      url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a"
-      length="28500000"
-      type="audio/m4a"/>
-  <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/cover.jpg"/>
-  <guid>2</guid>
-</item>
-<item>
-  <title>[三体有声剧] 第一季·第三集·叶文洁</title>
-  <description>叶文洁是故事的关键人物：在文革动乱年代，她目睹父亲被打死，对人类文明彻底绝望。进入秘密“红岸工程”后，她首次通过太阳发射向外文明送出信号，从此开启地球与外星文明的命运交错。她既是拯救的希望，也是毁灭的起点。</description>
-  <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
-  <enclosure 
-      url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/3三体第一季_叶文洁.m4a"
-      length="28500000"
-      type="audio/m4a"/>
-  <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/cover.jpg"/>
-  <guid>2</guid>
-</item>
+    <item>
+      <title>[三体有声剧] 第一季·第二集·射手和农场主</title>
+      <description>叶文洁的信号引来三体世界，汪淼进入神秘游戏，探索文明毁灭与重生的隐喻，揭示“射手与农场主”的宇宙法则。</description>
+      <pubDate>Mon, 20 Oct 2025 10:10:00 +0800</pubDate>
+      <enclosure
+          url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a"
+          length="28500000"
+          type="audio/m4a"/>
+      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+      <guid>2</guid>
+    </item>
+
+    <item>
+      <title>[三体有声剧] 第一季·第三集·叶文洁</title>
+      <description>叶文洁是故事的关键人物：在文革动乱年代，她目睹父亲被打死，对人类文明彻底绝望。进入秘密“红岸工程”后，她首次通过太阳发射向外文明送出信号，从此开启地球与外星文明的命运交错。她既是拯救的希望，也是毁灭的起点。</description>
+      <pubDate>Mon, 20 Oct 2025 10:20:00 +0800</pubDate>
+      <enclosure
+          url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/3三体第一季_叶文洁.m4a"
+          length="28500000"
+          type="audio/m4a"/>
+      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+      <guid>3</guid>
+    </item>
+
   </channel>
 </rss>

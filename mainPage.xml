@@ -12,8 +12,8 @@
     <description>来自米粒的碎碎念与思考。</description>
 
     <item>
-      <title>三体 第一季 · 科学边界</title>
-      <description>第一季第一集：科学边界。</description>
+      <title>[三体有声剧] 第一季·第一集·科学边界</title>
+      <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
       <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
       <enclosure 
           url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/1三体第一季_科学边界.m4a"
@@ -21,15 +21,17 @@
           type="audio/m4a"/>
       <guid>1</guid>
     </item>
- <item>
-      <title>三体 第一季 · 射手和农场主</title>
-      <description>第一季第二集：射手和农场主。</description>
+
+    <item>
+      <title>[三体有声剧] 第一季·第二集·射手和农场主</title>
+      <description>叶文洁的信号引来三体世界，汪淼进入神秘游戏，探索文明毁灭与重生的隐喻，揭示“射手与农场主”的宇宙法则。</description>
       <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
       <enclosure 
           url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a"
           length="28500000"
           type="audio/m4a"/>
-      <guid>1</guid>
+      <guid>2</guid>
     </item>
+
   </channel>
 </rss>

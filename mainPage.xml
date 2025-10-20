@@ -21,6 +21,15 @@
           type="audio/m4a"/>
       <guid>1</guid>
     </item>
-
+ <item>
+      <title>三体 第一季 · 射手和农场主</title>
+      <description>第一季第二集：射手和农场主。</description>
+      <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
+      <enclosure 
+          url="https://raw.githubusercontent.com/milleyin/podCaseFiles/refs/heads/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a"
+          length="28500000"
+          type="audio/m4a"/>
+      <guid>1</guid>
+    </item>
   </channel>
 </rss>

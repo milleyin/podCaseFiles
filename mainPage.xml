@@ -13,7 +13,7 @@
          <!-- 第一季（共 11 集） -->
          <item>
              <title>[三体有声剧] 第一季·第一集·科学边界</title>
-             <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
+             <description>物理学家杨冬留下遗书后自杀：一切的一切都导向这样一个结果——物理学从来就没有存在过，将来也不会存在。而纳米学家汪淼，也接到了来自神秘战区的邀请……</description>
              <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
              <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/1三体第一季_科学边界.m4a" length="28500000" type="audio/m4a"/>
              <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
@@ -191,6 +191,149 @@
              <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
              <guid>20</guid>
          </item>
-         
+         <!-- 第三季（共 16 集） -->
+         <item>
+           <title>[三体有声剧] 第三季·第一集·危机纪元</title>
+           <description>三体舰队启程，地球文明进入危机纪元。人类在恐惧与希望之间挣扎，试图重建生存的秩序。</description>
+           <pubDate>Mon, 20 Oct 2025 14:00:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/1危机纪元_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>21</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第二集·防御</title>
+           <description>人类联合建立太空防御体系，然而信任危机暗流涌动，真正的敌人或许并非来自外星。</description>
+           <pubDate>Mon, 20 Oct 2025 14:10:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/2防御_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>22</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第三集·逃亡主义</title>
+           <description>面对无法战胜的敌人，逃亡主义思潮席卷地球。是苟活一隅，还是共同赴死？人类开始分裂。</description>
+           <pubDate>Mon, 20 Oct 2025 14:20:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/3逃亡主义_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>23</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第四集·失败主义</title>
+           <description>科学与理性的信仰崩塌，失败主义蔓延，人类在绝望中寻找最后的意义。</description>
+           <pubDate>Mon, 20 Oct 2025 14:30:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/4失败主义_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>24</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第五集·面壁计划</title>
+           <description>“面壁计划”正式启动，四位面壁者被赋予绝对权力与秘密任务，人类的希望寄托于少数人的智慧与欺骗。</description>
+           <pubDate>Mon, 20 Oct 2025 14:40:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/5面壁计划_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>25</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第六集·面壁者与破壁人</title>
+           <description>当面壁者的计划逐渐展开，破壁人也在暗中逼近，一场智力与命运的较量拉开帷幕。</description>
+           <pubDate>Mon, 20 Oct 2025 14:50:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/6面壁者与破壁人_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>26</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第七集·信念、庄园与核弹</title>
+           <description>罗辑的信念被质疑，庄园中的秘密逐渐揭晓，一场关于信仰与毁灭的对话在核弹的阴影下展开。</description>
+           <pubDate>Mon, 20 Oct 2025 15:00:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/7信念,庄园与核弹_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>27</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第八集·这是计划的一部分</title>
+           <description>一切皆在计划之中，连绝望都被精确计算。命运的钟摆在冷静与疯狂之间摇摆。</description>
+           <pubDate>Mon, 20 Oct 2025 15:10:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/8这是计划的一部分_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>28</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第九集·完美的女人</title>
+           <description>罗辑的生活被打破，完美女人的出现背后隐藏更深的意图，破壁的倒计时悄然开始。</description>
+           <pubDate>Mon, 20 Oct 2025 15:20:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/9完美的女人_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>29</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十集·庄颜、太阳与萤火虫</title>
+           <description>庄颜的温柔如萤火，照亮罗辑的黑暗岁月。太阳升起，光明与死亡并存。</description>
+           <pubDate>Mon, 20 Oct 2025 15:30:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/10庄颜,太阳,萤火虫_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>30</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十一集·领袖、卢浮宫与三体舰队</title>
+           <description>权力、艺术与毁灭交织，卢浮宫的倒影中，人类命运与三体舰队的光芒一同闪烁。</description>
+           <pubDate>Mon, 20 Oct 2025 15:40:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/11领袖,卢浮宫,三体舰队_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>31</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十二集·破壁</title>
+           <description>所有秘密终于揭晓，破壁的时刻到来，人类的命运在真相中被彻底改写。</description>
+           <pubDate>Mon, 20 Oct 2025 15:50:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/12破壁_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>32</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十三集·我在末日等你</title>
+           <description>当世界坍塌，爱与信念成为最后的庇护所。末日已至，人类仍在等待奇迹。</description>
+           <pubDate>Mon, 20 Oct 2025 16:00:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/13我在末日等你_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>33</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十四集·咒语</title>
+           <description>罗辑的思考如同咒语，在宇宙深处回荡。信仰与理性，再次走向对立。</description>
+           <pubDate>Mon, 20 Oct 2025 16:10:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/14咒语_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>34</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十五集·上帝代言人</title>
+           <description>当理性失去约束，“上帝代言人”出现。罗辑被迫承担人类最后的决断。</description>
+           <pubDate>Mon, 20 Oct 2025 16:20:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/15上帝代言人_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>35</guid>
+         </item>
+
+         <item>
+           <title>[三体有声剧] 第三季·第十六集·暗杀与信仰</title>
+           <description>信仰与背叛的终章，人类文明的命运，在一场暗杀与启示中落下帷幕。</description>
+           <pubDate>Mon, 20 Oct 2025 16:30:00 +0800</pubDate>
+           <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/16暗杀与信仰_三体黑暗森林第三季.m4a" length="28500000" type="audio/m4a"/>
+           <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S3/cover.jpg"/>
+           <guid>36</guid>
+         </item>
      </channel>
 </rss>

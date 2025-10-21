@@ -19,7 +19,7 @@
           url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/1三体第一季_科学边界.m4a"
           length="28500000"
           type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+          <media:thumbnail url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg" />
       <guid>1</guid>
     </item>
 

@@ -2,113 +2,195 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>米粒的Podcast</title>
-    <link>https://mille.in</link>
-    <language>zh-cn</language>
-    <itunes:author>Mille Yin</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/image.png"/>
-    <description>什么都播</description>
-
-    <item>
-      <title>[三体有声剧] 第一季·第一集·科学边界</title>
-      <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
-      <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/1三体第一季_科学边界.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>1</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第二集·射手和农场主</title>
-      <description>叶文洁的信号引来三体世界，汪淼进入神秘游戏，探索文明毁灭与重生的隐喻，揭示“射手与农场主”的宇宙法则。</description>
-      <pubDate>Mon, 20 Oct 2025 10:10:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>2</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第三集·叶文洁</title>
-      <description>叶文洁是故事的关键人物：她在动荡年代目睹父亲被迫害致死，对人类失望透顶。进入“红岸工程”后，她通过太阳首次向外太空发出信号，开启地球命运转折。</description>
-      <pubDate>Mon, 20 Oct 2025 10:20:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/3三体第一季_叶文洁.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>3</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第四集·疯狂年代</title>
-      <description>在那个疯狂的年代，人性与理性被撕裂，科学沦为政治的工具，命运的齿轮开始转动。</description>
-      <pubDate>Mon, 20 Oct 2025 10:30:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/4三体第一季_疯狂年代.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>4</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第五集·红岸基地</title>
-      <description>红岸基地，隐藏在群山之中的秘密工程，成为地球与外星文明首次交流的起点。</description>
-      <pubDate>Mon, 20 Oct 2025 10:40:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/5三体第一季_红岸基地.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>5</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第六集·大史和墨子</title>
-      <description>汪淼与大史的命运交织，古老的智慧与现代科技碰撞，“墨子”项目揭开新的谜团。</description>
-      <pubDate>Mon, 20 Oct 2025 10:50:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/6三体第一季_大史和墨子.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>6</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第七集·红岸往事</title>
-      <description>叶文洁的往事逐渐揭开，红岸基地背后的秘密与三体世界的阴影紧密相连。</description>
-      <pubDate>Mon, 20 Oct 2025 11:00:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/7三体第一季_红岸往事.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>7</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第八集·三体问题</title>
-      <description>三体世界的谜团浮现，人类首次真正理解宇宙的残酷与不确定性。</description>
-      <pubDate>Mon, 20 Oct 2025 11:10:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/8三体第一季_三体问题.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>8</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第九集·无解</title>
-      <description>当所有假设都被推翻，科学与信仰的界限模糊，人类面对一个真正“无解”的宇宙。</description>
-      <pubDate>Mon, 20 Oct 2025 11:20:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/9三体第一季_无解.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>9</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第十集·聚会与大撕裂</title>
-      <description>三体危机全面爆发，地球人类的命运被迫进入新的阶段，聚会与撕裂并存。</description>
-      <pubDate>Mon, 20 Oct 2025 11:30:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/10三体第一季_聚会与大撕裂.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>10</guid>
-    </item>
-
-    <item>
-      <title>[三体有声剧] 第一季·第十一集·地球叛军</title>
-      <description>地球叛军崛起，人类分裂为不同阵营，新的危机正悄然逼近。</description>
-      <pubDate>Mon, 20 Oct 2025 11:40:00 +0800</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/11三体第一季_地球叛军.m4a" length="28500000" type="audio/m4a"/>
-      <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
-      <guid>11</guid>
-    </item>
-
-  </channel>
+     <channel>
+         <title>📯米播</title>
+         <link>https://mille.in</link>
+         <language>zh-cn</language>
+         <itunes:author>Mille Yin</itunes:author>
+         <itunes:explicit>false</itunes:explicit>
+         <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/image.png"/>
+         <description>什么都播</description>
+         <!-- 第一季（共 11 集） -->
+         <item>
+             <title>[三体有声剧] 第一季·第一集·科学边界</title>
+             <description>科学家接连自杀，物理学被宣告“已不存在”。汪淼卷入神秘组织“科学边界”，一场人类与外星文明的交锋悄然开启。</description>
+             <pubDate>Mon, 20 Oct 2025 10:00:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/1三体第一季_科学边界.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>1</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第二集·射手和农场主</title>
+             <description>叶文洁的信号引来三体世界，汪淼进入神秘游戏，探索文明毁灭与重生的隐喻，揭示“射手与农场主”的宇宙法则。</description>
+             <pubDate>Mon, 20 Oct 2025 10:10:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/2三体第一季_射手和农场主.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>2</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第三集·叶文洁</title>
+             <description>叶文洁是故事的关键人物：她在动荡年代目睹父亲被迫害致死，对人类失望透顶。进入“红岸工程”后，她通过太阳首次向外太空发出信号，开启地球命运转折。</description>
+             <pubDate>Mon, 20 Oct 2025 10:20:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/3三体第一季_叶文洁.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>3</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第四集·疯狂年代</title>
+             <description>在那个疯狂的年代，人性与理性被撕裂，科学沦为政治的工具，命运的齿轮开始转动。</description>
+             <pubDate>Mon, 20 Oct 2025 10:30:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/4三体第一季_疯狂年代.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>4</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第五集·红岸基地</title>
+             <description>红岸基地，隐藏在群山之中的秘密工程，成为地球与外星文明首次交流的起点。</description>
+             <pubDate>Mon, 20 Oct 2025 10:40:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/5三体第一季_红岸基地.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>5</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第六集·大史和墨子</title>
+             <description>汪淼与大史的命运交织，古老的智慧与现代科技碰撞，“墨子”项目揭开新的谜团。</description>
+             <pubDate>Mon, 20 Oct 2025 10:50:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/6三体第一季_大史和墨子.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>6</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第七集·红岸往事</title>
+             <description>叶文洁的往事逐渐揭开，红岸基地背后的秘密与三体世界的阴影紧密相连。</description>
+             <pubDate>Mon, 20 Oct 2025 11:00:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/7三体第一季_红岸往事.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>7</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第八集·三体问题</title>
+             <description>三体世界的谜团浮现，人类首次真正理解宇宙的残酷与不确定性。</description>
+             <pubDate>Mon, 20 Oct 2025 11:10:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/8三体第一季_三体问题.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>8</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第九集·无解</title>
+             <description>当所有假设都被推翻，科学与信仰的界限模糊，人类面对一个真正“无解”的宇宙。</description>
+             <pubDate>Mon, 20 Oct 2025 11:20:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/9三体第一季_无解.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>9</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第十集·聚会与大撕裂</title>
+             <description>三体危机全面爆发，地球人类的命运被迫进入新的阶段，聚会与撕裂并存。</description>
+             <pubDate>Mon, 20 Oct 2025 11:30:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/10三体第一季_聚会与大撕裂.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>10</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第一季·第十一集·地球叛军</title>
+             <description>地球叛军崛起，人类分裂为不同阵营，新的危机正悄然逼近。</description>
+             <pubDate>Mon, 20 Oct 2025 11:40:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/11三体第一季_地球叛军.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S1/cover.jpg"/>
+             <guid>11</guid>
+         </item>
+         
+         <!-- 第二季（共 9 集） -->
+         <item>
+             <title>[三体有声剧] 第二季·第一集·不要回答</title>
+             <description>在上一季结尾，汪淼打通了整个三体游戏，得到了三体组织线下聚会的地址。在聚会上，他看到了这群人的真正面目，也看到了这个组织的最高统帅——叶文洁！而叶文洁，则在聚会上继续开始回顾红岸基地的历史……</description>
+             <pubDate>Mon, 20 Oct 2025 12:00:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/1三体第二季_不要回答.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>12</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第二集·叛乱平息</title>
+             <description>红岸基地的秘密逐渐揭开，叶文洁在理想与背叛之间徘徊，叛乱终被平息，但新的危机正在酝酿。</description>
+             <pubDate>Mon, 20 Oct 2025 12:10:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/2三体第二季_叛乱平息.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>13</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第三集·无人忏悔</title>
+             <description>尘封的真相被揭开，没有人愿意为过去的错误忏悔，科学与信仰的裂痕愈发深重。</description>
+             <pubDate>Mon, 20 Oct 2025 12:20:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/3三体第二季_无人忏悔.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>14</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第四集·地球三体运动</title>
+             <description>三体组织的核心计划浮出水面，叶文洁与汪淼直面地球与三体文明的命运交汇点。</description>
+             <pubDate>Mon, 20 Oct 2025 12:30:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/4三体第二季_地球三体运动.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>15</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第五集·古筝行动</title>
+             <description>联合国与军方展开代号“古筝行动”的秘密计划，一场决定人类命运的行动正式展开。</description>
+             <pubDate>Mon, 20 Oct 2025 12:40:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/5三体第二季_古筝行动.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>16</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第六集·监听员</title>
+             <description>在黑暗森林法则的阴影下，监听员的任务揭开新篇章，人类的命运已被悄然记录。</description>
+             <pubDate>Mon, 20 Oct 2025 12:50:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/6三体第二季_监听员.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>17</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第七集·智子工程</title>
+             <description>三体文明的“智子工程”启动，人类科技被彻底封锁，科学的黑暗时代正式来临。</description>
+             <pubDate>Mon, 20 Oct 2025 13:00:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/7三体第二季_智子工程.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>18</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第八集·智子诞生</title>
+             <description>智子的诞生，标志着三体文明对人类的全面监控正式开始，一切抗争都变得徒劳。</description>
+             <pubDate>Mon, 20 Oct 2025 13:10:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/8三体第二季_智子诞生.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>19</guid>
+         </item>
+         
+         <item>
+             <title>[三体有声剧] 第二季·第九集·你们是虫子</title>
+             <description>三体文明发来最后的警告：“你们是虫子。”——这句话，成为人类文明永恒的噩梦。</description>
+             <pubDate>Mon, 20 Oct 2025 13:20:00 +0800</pubDate>
+             <enclosure url="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/9三体第二季_你们是虫子.m4a" length="28500000" type="audio/m4a"/>
+             <itunes:image href="https://raw.githubusercontent.com/milleyin/podCaseFiles/main/ThreeBody/S2/cover.jpg"/>
+             <guid>20</guid>
+         </item>
+         
+     </channel>
 </rss>
